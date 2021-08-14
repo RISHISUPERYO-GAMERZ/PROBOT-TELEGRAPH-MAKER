@@ -16,7 +16,7 @@ Owner 2 of the bot:- [PRO LUCIFER ](https://t.me/Rocky_8218_FF)
 ![IMG_20210226_105718_457](https://user-images.githubusercontent.com/73427470/110158189-119c5780-7e0f-11eb-90e2-9f550cc5faeb.jpg)
 
 - SOME credits to **PIKACHU LAVA TELEGRAPH BOT**
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FRishisuperyo-Op%2FPROBOT-TELEGRAPH-MAKER&envs=TG_BOT_TOKEN%2CAPI_HASH%2CAPP_IDDesc=Get+this+value+from+my.telegram.org%21+Please+do+not+steal&API_HASHDesc=Get+this+value+from+my.telegram.org%21+Please+do+not+steal&TG_BOT_TOKENDesc=Need+For+The+Bot+To+Work⚡.)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FRishisuperyo-Op%2FPROBOT-TELEGRAPH-MAKER&envs=TG_BOT_TOKEN%2CAPI_HASH%2CAPP_ID&APP_IDDesc=Get+this+value+from+my.telegram.org%21+Please+do+not+steal&API_HASHDesc=Get+this+value+from+my.telegram.org%21+Please+do+not+steal&TG_BOT_TOKENDesc=Need+For+The+Bot+To+Work⚡.)
 
 
 
